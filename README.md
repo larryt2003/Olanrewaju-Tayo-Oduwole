@@ -1,42 +1,65 @@
 <h1>Hi, I'm Olanrewaju! <br/><a href="[[(https://github.com/larryt2003)]", </a> Data Analyst</a>,<a>Procurement Analyst</a>, <a>Busines Analyst</a></h1>
 
-<h2> Data Analytics Programe:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3> PROFILE</h3>
 
-<h2>📺 Popular YouTube Videos</h2>
+Experienced and incisive data analyst with a background in procurement and supply chain as well as finance offering years of experience in analysing and interpreting data to drive growth and define metrics that tie back to business performance and initiative. Successful and diverse background spanning business analytics, logistics, supply chain management, and business development with great emphasis on designing and implementing scalable data models for the attainment of business goals.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h3> KEY SKILLS</h3>
 
-<h2> 🤳 Connect with me:</h2>
+*	Advanced Microsoft Excel
+*	SQL (DML, DDL & DCL)
+*	Transformation of Data Pipelines with Python ( Pandas, Numpy, Matplotlib, SciPy)
+*	Report automation with SAP Business Objects
+*	Data Manipulation, Wrangling & Visualisation
+*	Qualitative & Quantitative Research
+*	Tableau Interactive Dashboard Development
+*	Communication and Stakeholder Management
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3> PROFESSIONAL EXPERIENCE</h3>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h3>Procurement & Business Analyst - Truth Wears Apparel              2020 – 2022</h3>
+	
+*	Orchestrated the end-to-end supply chain process, from strategic planning to procurement execution, optimizing efficiency and cost- effectiveness.
+*	Collaborated with stakeholders to discern business objectives and refine operational processes, fostering continuous improvement.
+*	Implemented a robust monitoring system to align commodity pricing with prevailing local market conditions, enhancing cost competitiveness.
+*	Produced and disseminated comprehensive procurement plans and progress reports on a monthly, quarterly, and annual basis, fostering transparency and accountability.
+* Leveraged imperfect data sets to extract actionable insights, driving informed decision-making processes.
+*	Developed automated tools and dashboards to visualize complex data sets, facilitating data-driven decision-making across the organization.
+•	Maintained a centralized procurement database, encompassing all pertinent documentation and vendor information, to streamline operations and vendor management processes.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Finance & Business Analyst- Simidebis International Limited	        2016 – 2019</h3>
+
+*	Implemented robust control processes, resulting in an impressive 70% debt recovery rate.
+*	Took charge of Financial Reporting and Analysis to support strategic business initiatives, providing insights for informed decision-making.
+*	Conducted thorough analysis of financial statements vis-a-vis forecasts, delivering comprehensive variance analysis reports.
+*	Delved into financial data pertaining to product and customer performance, crafting insightful reports for key stakeholders.
+*	Instituted and monitored controls over revenue and expenses to optimize financial management.
+*	Evaluated applications against predefined specifications, guiding decisions on approval, rejection, or necessary adjustments.
+*	Addressed process gaps and oversaw financial operational functions to ensure efficiency and effectiveness.
+
+<h3>Procurement & Design to Cost Analyst- Alcatel Lucent	2009 – 2016</h3>
+
+*	Managed the approval process for shopping carts/purchase orders utilizing the SRM procurement tool.
+*	Conducted comprehensive cost analysis and volume planning for major commodities, analyzing variances from budgetary constraints.
+*	Monitored costs, schedules, and scope of assigned contracts to uphold quality standards while maximizing value.
+*	Generated cost-saving proposals, including thorough make-versus-buy analyses, alternative sourcing strategies, and criteria for vendor evaluation.
+*	Coordinated purchasing activities with engineering departments to maintain optimal inventory levels and support project requirements.
+
+<h3>EDUCATION</h3>
+
+*	Master’s in Procurement, Logistics, and Supply Chain Management	
+University of Salford	2023
+*	B.Sc. Management Science	University of Winneba	2014
+
+<h3>TRAINING AND CERTIFICATION</h3>	
+
+•	Introduction to Data Analytics (Data cleaning, analysis,   visualization and storytelling)	CareerFoundry	2023
+
+•	Data Immersion (SQL, PYTHON, TABLEAU, Data Mining, Machine Learning)	                      CareerFoundry	2023
+
+
+
+
+
+
